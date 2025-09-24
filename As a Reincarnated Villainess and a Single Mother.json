@@ -8,31 +8,9 @@
     "001": {
       "title": "001",
       "volume": "",
-      "last_updated": "1758716517",
+      "last_updated": "1758717300",
       "groups": {
-        "": [
-          "https://drive.usercontent.google.com/download?id=1oHE8zKtQ5EGGUwgIvPGnbNDsIzX10pPa"
-        ]
-      }
-    },
-    "002": {
-      "title": "002",
-      "volume": "",
-      "last_updated": "1758716641",
-      "groups": {
-        "": [
-          "https://www.imgchest.com/p/o24aj6pve4l"
-        ]
-      }
-    },
-    "003": {
-      "title": "003",
-      "volume": "",
-      "last_updated": "1758717001",
-      "groups": {
-        "": [
-          "https://cdn.imgchest.com/files/0e40bc220421.jpg"
-        ]
+        "https://www.imgchest.com/p/o24aj6pve4l": ""
       }
     }
   }
