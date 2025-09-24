@@ -4,5 +4,16 @@
   "artist": "EI Haruna",
   "author": "Gunjou Latte",
   "cover": "https://cdn.imgchest.com/files/0e40bc220421.jpg",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "001",
+      "volume": "",
+      "last_updated": "1758715865",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1oHE8zKtQ5EGGUwgIvPGnbNDsIzX10pPa"
+        ]
+      }
+    }
+  }
 }
